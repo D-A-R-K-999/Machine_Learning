@@ -93,4 +93,4 @@ You can run this project in Google Colab by copying the code into a new notebook
 
 ## 📬 Contact
 
-For any suggestions or collaborations, feel free to connect on [LinkedIn]([https://www.linkedin.com/in/parth-shikarwar-a940a7295/]) or mail me.
+For any suggestions or collaborations, feel free to connect on [LinkedIn](https://www.linkedin.com/in/parth-shikarwar-a940a7295/) or mail me.
