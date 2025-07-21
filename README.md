@@ -81,7 +81,7 @@ A scatter plot is generated to show the **Actual vs Predicted** values with a re
 
 ## 🙏 Acknowledgement
 
-This project was created under the guidance of [Mention Names Here], as part of my machine learning learning journey. I thank them sincerely for their support and knowledge.
+This project was created under the guidance of [Surekha Kanwar](https://www.linkedin.com/in/surekha-kanwar-81002076/), as part of my machine learning learning journey. I thank them sincerely for their support and knowledge.
 
 ---
 
@@ -93,4 +93,4 @@ You can run this project in Google Colab by copying the code into a new notebook
 
 ## 📬 Contact
 
-For any suggestions or collaborations, feel free to connect on [LinkedIn](https://www.linkedin.com/) or mail me.
+For any suggestions or collaborations, feel free to connect on [LinkedIn]([https://www.linkedin.com/in/parth-shikarwar-a940a7295/]) or mail me.
